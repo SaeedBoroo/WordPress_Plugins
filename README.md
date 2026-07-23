@@ -72,6 +72,8 @@ Simply connect your own API key (Groq, Google Gemini, OpenAI-compatible APIs, an
   - The AI answers customers **only using your provided information**
 - 🌙 Dark & Light Mode
 - 🌍 Multi-language support
+- ✨ Auto Failover
+  - If the current provider fails, automatically try other models or providers that have API keys configured.
 - 💬 Custom AI personality and tone
   - Friendly
   - Professional
