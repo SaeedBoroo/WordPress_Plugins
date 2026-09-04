@@ -58,6 +58,8 @@ A powerful, privacy-friendly AI chatbot for WordPress that supports multiple AI 
 
 Simply connect your own API key (Groq, Google Gemini, OpenAI-compatible APIs, and more) and start chatting.
 
+🌐 [Live Demo](https://anamadar.com)
+
 ### ✨ Features
 
 - 🤖 Supports multiple AI providers
