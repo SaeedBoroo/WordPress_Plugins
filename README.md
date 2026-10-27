@@ -91,6 +91,24 @@ Simply connect your own API key (Groq, Google Gemini, OpenAI-compatible APIs, an
 
 ---
 
+## 💳 5. Card-to-card payments (FREE)
+- 💳 **Card-to-card payments** for WooCommerce, built on the Direct Bank Transfer (BACS) gateway
+- 🪟 **Checkout popup** with the order total and bank accounts as styled bank cards
+- 📋 **One-click copy** for card numbers and IBAN (Sheba)
+- 📅 **Jalali (Persian) date picker**: defaults to today, years update automatically
+- 📤 **Drag & drop upload** with live preview
+- 🖼️ **Images**: JPG, PNG, WebP, GIF, HEIC, auto-compressed to under 2 MB
+- 📄 **PDF receipts** up to 2 MB, checked for active content
+- 🔄 **Automatic status flow**: *On hold* → *Processing* after upload
+- 👤 **My Account box**: "Pay & upload receipt" button, plus a receipt thumbnail with lightbox
+- 🛠️ **Admin view**: receipt thumbnail, transfer date and full-file link on the order screen
+- 🔐 **Secure by design**: nonce and ownership checks, re-encoded images, random file names, protected storage
+- 📁 **Private storage** in `wp-content/uploads/508-card2card-receipt/`
+- 📱 **Mobile-first, RTL-ready UI**, shown as a bottom sheet on phones
+- ⚡ **HPOS compatible** and backward compatible with the previous ANA plugin
+
+---
+
 ## ❤️ Support
 
 If you find these plugins useful, don't forget to ⭐ **Star** this repository.
